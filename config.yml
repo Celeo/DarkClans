@@ -1,0 +1,20 @@
+clans:
+  allClans:[]
+settings:
+  noMapOwner: []
+  noHurtRegions: []
+  tiers:
+    - '1': 500
+    - '2': 2500
+    - '3': 7000
+    - '4': 15000
+  transfers:
+    fightBack:
+      attacking: 5
+      Defending: 15
+    flee:
+      attacking: 10
+      defending: 20
+games:
+  capture_pos: capture_pos_check
+  capture_neg: capture_neg_check

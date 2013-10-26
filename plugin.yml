@@ -1,0 +1,18 @@
+name: DarkClans
+version: 0.1.9.4
+author: Celeo
+website: http://darktidegames.com/
+description: Clans
+depends: [WorldEdit, WorldGuard, Empyrean, Essentials]
+main: com.darktidegames.celeo.clans.DarkClans
+commands:
+  clan:
+    usage: /<command> [parameter(s)]
+  clans:
+    usage: /<command> [parameter(s)]
+  dclans:
+    usage: /<command> [parameter(s)]
+  darkclans:
+    usage: /<command> [parameter(s)]
+  f:
+    usage: /<command> [parameter(s)]
